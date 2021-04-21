@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on different repositories 
 - 🥅 2021 Goals: Learn more about code
 - ⚡ Fun fact: I like to make music
-- 
+
 <br />
 
 **Languages and Tools:**  
