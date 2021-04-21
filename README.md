@@ -68,7 +68,7 @@ T|h|i|n|g|s||I||:green_heart:|:|
 | | | | | | |`Y`| |`C`| |`X`|
 | | | | | | |`O`| | | |`I`|
 | | | | | | |`U`| | | |`A`|
-| | | | | | | | | | | |
+| | | | | | | | | |[📸](https://www.instagram.com/leo.rikkipip/)| |
 
 **Languages and Tools:**  
 
