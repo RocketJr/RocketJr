@@ -25,6 +25,21 @@ Here are some ideas to get you started:
 |`S`| | | | | |`M`| | |[📸](https://www.instagram.com/leo.rikkipip/)| |
 |`M`| | | | | | | | | | |
 
+T|h|i|n|g|s||I||💚|:|
+| - | - | - | - | - | - | - | - | - | - | - |
+|`F`| | |`P`| | | | | | |`W`|
+|`O`|`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
+|`L`| | |`Y`| | | | |`C`| |`I`|
+|`L`| | |`C`|`O`|`D`|`E`| |`O`| |`M`|
+|`O`| | |`H`| | | | |`L`| |`S`|
+|`W`| |`S`|`O`|`C`|`I`|`O`|`L`|`O`|`G`|`Y`|
+| | | |`L`| | | | |`R`| | |
+|`Y`| | |`O`| | | | | | | |
+|`O`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
+|`U`| | |`Y`| | |`E`| | | | |
+| | | | | | |`M`| | |[📸](https://www.instagram.com/leo.rikkipip/)| |
+| | | | | | | | | | | |
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
