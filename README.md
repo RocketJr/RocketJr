@@ -1,7 +1,5 @@
 ### Hi there, I'm Leonardo! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning all kinds of code
 - 👯 I’m looking to collaborate on different repositories 
