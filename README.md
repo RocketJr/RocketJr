@@ -10,6 +10,21 @@ Here are some ideas to get you started:
 
 <br />
 
+|T|h|i|n|g|s||I||💚|:|
+| - | - | - | - | - | - | - | - | - | - | - |
+| | | |`P`| | | | | | |`W`|
+| |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
+|`M`| | |`Y`| | | | |`C`| |`I`|
+|`I`| | |`C`|`O`|`D`|`E`| |`O`| |`M`|
+|`N`| | |`H`| | | | |`L`| |`S`|
+|`I`| |`S`|`O`|`C`|`I`|`O`|`L`|`O`|`G`|`Y`|
+|`M`| | |`L`| | | | |`R`| | |
+|`A`| | |`O`| | | | | | | |
+|`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
+|`I`| | |`Y`| | |`E`| | | | |
+|`S`| | | | | |`M`| | |[📸](https://www.instagram.com/leo.rikkipip/)| |
+|`M`| | | | | | | | | | |
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
