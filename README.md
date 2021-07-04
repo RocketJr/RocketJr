@@ -1,4 +1,4 @@
-### Hi there, I'm Leonardo! 👋
+### Hi there, I'm RocketJr! 👋
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning all kinds of code
