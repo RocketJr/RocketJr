@@ -21,7 +21,7 @@ T|h|i|n|g|s||I||:green_heart:|:|
 | | | | | | |`Y`| |`C`| |`K`|
 | | | | | | |`O`| | | |`A`|
 | | | | | | |`U`| | | | |
-| | | | | | | | | |[📸](https://www.instagram.com/leo.rikkipip/)| |
+| | | | | | | | | |[📸](https://twitter.com/Rock3tJr)| |
 
 **Languages and Tools:**  
 
