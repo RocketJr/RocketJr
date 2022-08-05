@@ -1,4 +1,4 @@
-### Hi there, I'm RocketJr! 👋
+<h1 align="center"> Hi there, I'm RocketJr! 👋 </h1>
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning all kinds of code
