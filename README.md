@@ -22,7 +22,8 @@
 <h1 align="center"> My Stats 📈 </h1>
 
 <p align="center">
-<img width=351 src="https://github-readme-stats.vercel.app/api?username=RocketJr&theme=tokyonight&show_icons=true&count_private=true">&nbsp;<img  width=346 src="https://github-readme-stats.vercel.app/api/top-langs?username=RocketJr&layout=compact&custom_title=Languages Used:&theme=tokyonight"/><br>
+<img width=351 src="https://github-readme-stats.vercel.app/api?username=RocketJr&theme=tokyonight&show_icons=true&count_private=true">&nbsp;
+<img  width=346 src="https://github-readme-stats.vercel.app/api/top-langs?username=RocketJr&layout=compact&theme=tokyonight&custom_title=Top&nbsp;Languages"/><br>
 
 <h1 align="center"> My Contact 📝 </h1>
 
