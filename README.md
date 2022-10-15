@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning all kinds of code
 - 👯 I’m looking to collaborate on different repositories 
-- 🥅 2022 Goals: Learn more about code
+- 🥅 Goals: Learn more about code
 - ⚡ Fun fact: I like to make music
 
 <br />
