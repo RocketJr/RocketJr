@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A4FC&center=true&width=435&lines=Let's+get+isekai'd" alt="Typing SVG" /></img>
+</p>
+
 <h1 align="center"> Hi there, I'm RocketJr! 👋 </h1>
 
 - 🔭 I’m currently working on JavaScript
@@ -29,3 +33,12 @@
 
 <p align="center">
 <br><img src="https://lanyard.cnrad.dev/api/459106695612989440" alt="lanyard"></img><br>
+</p>
+
+<div align="center">
+
+```scala
+"They laugh at me because I’m different. I laugh at them because they’re all the same."
+- The Joker
+```
+</div>
