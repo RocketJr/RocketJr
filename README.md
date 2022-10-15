@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A4FC&center=true&width=435&lines=Let's+get+isekai'd" alt="Typing SVG" /></img>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A4FC&center=true&width=435&lines=We+all+go+a+little+mad+sometimes" alt="Typing SVG" /></img>
 </p>
 
 <h1 align="center"> Hi there, I'm RocketJr! 👋 </h1>
