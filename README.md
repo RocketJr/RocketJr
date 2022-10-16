@@ -1,3 +1,6 @@
+<img align="center" src="./images/Welcome.jpg">
+<br>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A4FC&center=true&width=435&lines=We+all+go+a+little+mad+sometimes" alt="Typing SVG" /></img>
 </p>
