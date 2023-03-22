@@ -7,7 +7,7 @@
 
 <h1 align="center"> Hi there, I'm RocketJr! 👋 </h1>
 
-- 🔭 I’m currently working on JavaScript
+- 🔭 I’m currently working on Scala & C
 - 🌱 I’m currently learning all kinds of code
 - 👯 I’m looking to collaborate on different repositories 
 - 🥅 Goals: Learn more about code
@@ -29,7 +29,7 @@
 <h1 align="center"> My Stats 📈 </h1>
 
 <p align="center">
-<img width=351 src="https://github-readme-stats.vercel.app/api?username=RocketJr&theme=tokyonight&show_icons=true&count_private=true">&nbsp;
+<! --- <img width=351 src="https://github-readme-stats.vercel.app/api?username=RocketJr&theme=tokyonight&show_icons=true&count_private=true">&nbsp;
 <img  width=346 src="https://github-readme-stats.vercel.app/api/top-langs?username=RocketJr&layout=compact&theme=tokyonight&custom_title=Top&nbsp;Languages"/><br>
 
 <h1 align="center"> My Contact 📝 </h1>
