@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/git-7d64e5.svg?style=for-the-badge&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/c-7c5bd1.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-7953be.svg?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-754bab.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-754bab.svg?style=for-the-badge&logo=javascript&logoColor=white)<br>
 
 <h1 align="center"> My Stats 📈 </h1>
 
