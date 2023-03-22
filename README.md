@@ -26,6 +26,14 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<h3 align=center>
+
+![Scala](https://img.shields.io/badge/scala-7b6efa.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Git](https://img.shields.io/badge/git-7d64e5.svg?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/c-7c5bd1.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-7953be.svg?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-754bab.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
 <h1 align="center"> My Stats 📈 </h1>
 
 <p align="center">
