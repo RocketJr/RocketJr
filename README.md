@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on different repositories 
 - 🥅 Goals: Learn more about code
 - ⚡ Fun fact: I like to make music
+- [Tarea 0](tarea0.py): Graph of a polyhedron to understand the basics of the course
 
 <br />
 
