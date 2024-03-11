@@ -11,13 +11,13 @@
 - 🌱 I’m currently learning all kinds of code
 - 🥅 Goals: Learn more about code
 - ⚡ Fun fact: I like to make music
-<details><summary> My Uchile projects:</summary>
+- <details><summary>🎓 My Uchile projects:</summary>
   <ul>
     <li><a href="https://github.com/RocketJr/Engineering-projects"> MA2601 & CD2201</li>
     <li><a href="https://github.com/RocketJr/gwen-t-RocketJr"> CC3002</li>
     <li><a href="https://github.com/RocketJr/CC3501-3D-Car-Rendering"> CC3501</li></a>
   </ul>
-</details>
+  </details>
 
 <br />
 
