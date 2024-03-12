@@ -14,6 +14,7 @@
 <details><summary>🎓 My Uchile projects:</summary>
   <ul>
     <li><a href="https://github.com/RocketJr/Engineering-projects"> MA2601 & CD2201</li>
+    <li><a href="https://github.com/RocketJr/CC3001-Algoritmos-y-Estructuras-de-Datos"> CC3001</li></a>
     <li><a href="https://github.com/RocketJr/gwen-t-RocketJr"> CC3002</li>
     <li><a href="https://github.com/RocketJr/CC3501-3D-Car-Rendering"> CC3501</li></a>
   </ul>
