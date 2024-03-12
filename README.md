@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning all kinds of code
 - 🥅 Goals: Learn more about code
 - ⚡ Fun fact: I like to make music
-<details><summary>🎓 My Uchile projects:</summary>
+- <details><summary>🎓 My Uchile projects:</summary>
   <ul>
     <li><a href="https://github.com/RocketJr/Engineering-projects"> MA2601 & CD2201</li>
     <li><a href="https://github.com/RocketJr/CC3001-Algoritmos-y-Estructuras-de-Datos"> CC3001</li></a>
@@ -19,7 +19,7 @@
     <li><a href="https://github.com/RocketJr/CC3201-Base-de-Datos"> CC3201</li>
     <li><a href="https://github.com/RocketJr/CC3501-3D-Car-Rendering"> CC3501</li></a>
   </ul>
-</details>
+  </details>
 
 <br/>
 
