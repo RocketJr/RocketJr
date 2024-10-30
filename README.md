@@ -13,11 +13,13 @@
 - ⚡ Fun fact: I like to make music
 - <details><summary>🎓 My Uchile projects:</summary>
   <ul>
-    <li><a href="https://github.com/RocketJr/Engineering-projects"> MA2601 & CD2201</li>
     <li><a href="https://github.com/RocketJr/CC3001-Algoritmos-y-Estructuras-de-Datos"> CC3001</li></a>
-    <li><a href="https://github.com/RocketJr/gwen-t-RocketJr"> CC3002</li>
-    <li><a href="https://github.com/RocketJr/CC3201-Base-de-Datos"> CC3201</li>
-    <li><a href="https://github.com/RocketJr/CC3501-3D-Car-Rendering"> CC3501</li></a>
+    <li><a href="https://github.com/RocketJr/gwen-t-RocketJr"> CC3002 Memes</li>
+    <li><a href="https://github.com/RocketJr/CC3101-Matematicas-Discretas-para-la-Computacion"> CC3101 Discretas</li></a>
+    <li><a href="https://github.com/RocketJr/CC3201-Base-de-Datos"> CC3201 BD</li>
+    <li><a href="https://github.com/RocketJr/CC3301-Programacion-de-Software-de-Sistemas"> CC3301 PSS</li></a>
+    <li><a href="https://github.com/RocketJr/CC3501-3D-Car-Rendering"> CC3501 Grafica</li></a>
+    <li><a href="https://github.com/RocketJr/CC5002-Desarrollo-de-Aplicaciones-Web"> CC5002 Web</li></a>
   </ul>
   </details>
 
