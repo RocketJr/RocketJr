@@ -59,7 +59,7 @@
 <h1 align="center"> My Stats 📈 </h1>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketJr&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketJr&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html"/>
 
 <h1 align="center"> My Contact 📝 </h1>
 
