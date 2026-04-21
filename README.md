@@ -7,19 +7,31 @@
 
 <h1 align="center"> Hi there, I'm RocketJr! 👋 </h1>
 
-- 🔭 I’m currently working on Scala & C
+- 🔭 I’m currently building projects TypeScript, Python, and web stacks
 - 🌱 I’m currently learning all kinds of code
 - 🥅 Goals: Learn more about code
 - ⚡ Fun fact: I like to make music
-- <details><summary>🎓 My Uchile projects:</summary>
+- <details><summary>🎓 UChile Projects - Licenciatura</summary>
   <ul>
-    <li><a href="https://github.com/RocketJr/CC3001-Algoritmos-y-Estructuras-de-Datos"> CC3001</li></a>
-    <li><a href="https://github.com/RocketJr/gwen-t-RocketJr"> CC3002 Memes</li>
-    <li><a href="https://github.com/RocketJr/CC3101-Matematicas-Discretas-para-la-Computacion"> CC3101 Discretas</li></a>
-    <li><a href="https://github.com/RocketJr/CC3201-Base-de-Datos"> CC3201 BD</li>
-    <li><a href="https://github.com/RocketJr/CC3301-Programacion-de-Software-de-Sistemas"> CC3301 PSS</li></a>
-    <li><a href="https://github.com/RocketJr/CC3501-3D-Car-Rendering"> CC3501 Grafica</li></a>
-    <li><a href="https://github.com/RocketJr/CC5002-Desarrollo-de-Aplicaciones-Web"> CC5002 Web</li></a>
+    <li><a href="https://github.com/RocketJr/CC3001-Algoritmos-y-Estructuras-de-Datos">CC3001 - Algoritmos y Estructuras de Datos</a></li>
+    <li><a href="https://github.com/RocketJr/gwen-t-RocketJr">CC3002 - Metodologías de Diseño y Programación (Gwent)</a></li>
+    <li><a href="https://github.com/RocketJr/CC3101-Matematicas-Discretas-para-la-Computacion">CC3101 - Matemáticas Discretas para la Computación</a></li>
+    <li><a href="https://github.com/RocketJr/CC3102-Teoria-de-la-Computacion">CC3102 - Teoría de la Computación</a></li>
+    <li><a href="https://github.com/RocketJr/CC3201-Base-de-Datos">CC3201 - Bases de Datos</a></li>
+    <li><a href="https://github.com/RocketJr/CC3301-Programacion-de-Software-de-Sistemas">CC3301 - Programación de Software de Sistemas</a></li>
+    <li><a href="https://github.com/RocketJr/CC3501-3D-Car-Rendering">CC3501 - Modelación y Computación Gráfica para Ingenieros</a></li>
+    <li><a href="https://github.com/RocketJr/CC4101-Lenguajes-de-Programacion">CC4101 - Lenguajes de Programación</a></li>
+    <li><a href="https://github.com/RocketJr/CC4302-Sistemas-Operativos">CC4302 - Sistemas Operativos</a></li>
+    <li><a href="https://github.com/RocketJr/CC4303-Redes">CC4303 - Redes</a> (fork)</li>
+    <li><a href="https://github.com/RocketJr/2024-2-CC4401-grupo-2">CC4401 - Ingeniería de Software</a> (fork)</li>
+    <li><a href="https://github.com/RocketJr/CC5205-Mineria-de-Datos">CC5205 - Minería de Datos</a></li>
+  </ul>
+  </details>
+
+- <details><summary>📚 UChile Projects - Electivos</summary>
+  <ul>
+    <li><a href="https://github.com/RocketJr/CC5002-Desarrollo-de-Aplicaciones-Web">CC5002 - Desarrollo de Aplicaciones Web</a></li>
+    <li><a href="https://github.com/RocketJr/brotherhood-clash">CC5409 - Taller de Videojuegos Multijugador</a> (fork)</li>
   </ul>
   </details>
 
@@ -47,7 +59,7 @@
 <h1 align="center"> My Stats 📈 </h1>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketJr&layout=compact&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketJr&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook" />
 
 <h1 align="center"> My Contact 📝 </h1>
 
