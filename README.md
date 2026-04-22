@@ -40,31 +40,72 @@
 <h1 align="center"> Languages & Tools 🛠️ </h1>
 
 <p align="center">
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"/></code>
+</p>
 
-<h3 align=center>
-
-![Scala](https://img.shields.io/badge/scala-7b6efa.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Git](https://img.shields.io/badge/git-7d64e5.svg?style=for-the-badge&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/c-7c5bd1.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-7953be.svg?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-754bab.svg?style=for-the-badge&logo=javascript&logoColor=white)<br>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/typescript-7d64e5?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/javascript-7d64e5?style=for-the-badge&logo=javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/python-7d64e5?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scala-7d64e5?style=for-the-badge&logo=scala&logoColor=white"/>
+        <img src="https://img.shields.io/badge/c-7d64e5?style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/sql-7d64e5?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Frontend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/react-7c5bd1?style=for-the-badge&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/html5-7c5bd1?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/css3-7c5bd1?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/bootstrap-7c5bd1?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mapbox-7c5bd1?style=for-the-badge&logo=mapbox&logoColor=white"/>
+      </p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Backend & Data</h3>
+      <p>
+        <img src="https://img.shields.io/badge/nodejs-7953be?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/fastapi-7953be?style=for-the-badge&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/django-7953be?style=for-the-badge&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/flask-7953be?style=for-the-badge&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/postgresql-7953be?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/rabbitmq-7953be?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+        <img src="https://img.shields.io/badge/auth0-7953be?style=for-the-badge&logo=auth0&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3" valign="top">
+      <h3>Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/git-754bab?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github-754bab?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/certbot-754bab?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/telegram_api-754bab?style=for-the-badge&logo=telegram&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center"> My Stats 📈 </h1>
 
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketJr&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html"/>
+</p>
 
 <h1 align="center"> My Contact 📝 </h1>
 
 <p align="center">
-<br><img src="https://lanyard.cnrad.dev/api/459106695612989440" alt="lanyard"></img><br>
+  <br><img src="https://lanyard.cnrad.dev/api/459106695612989440" alt="lanyard"><br>
 </p>
 
 <div align="center">
