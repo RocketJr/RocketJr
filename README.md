@@ -91,6 +91,7 @@
       <p>
         <img src="https://img.shields.io/badge/git-754bab?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github-754bab?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/n8n-754bab?style=for-the-badge&logo=n8n&logoColor=white"/>
         <img src="https://img.shields.io/badge/certbot-754bab?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
         <img src="https://img.shields.io/badge/telegram_api-754bab?style=for-the-badge&logo=telegram&logoColor=white"/>
       </p>
