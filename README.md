@@ -67,6 +67,8 @@
         <img src="https://img.shields.io/badge/html5-7c5bd1?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/css3-7c5bd1?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/bootstrap-7c5bd1?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/tailwind-7c5bd1?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/daisyui-7c5bd1?style=for-the-badge&logo=daisyui&logoColor=white"/>
         <img src="https://img.shields.io/badge/mapbox-7c5bd1?style=for-the-badge&logo=mapbox&logoColor=white"/>
       </p>
     </td>
